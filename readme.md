@@ -4,3 +4,4 @@
 # added second commit from *branch1*
 # added this from *master* branch
 
+# added this from hotfix/bug-1
